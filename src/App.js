@@ -25,7 +25,7 @@ export default function App() {
         </section>
 
         <img
-          src={require("./Product.jpg")}
+          src={require("./product.jpg")}
           alt="Lamp Product"
           width="300px"
           height="300px"
@@ -59,7 +59,7 @@ export default function App() {
           <p>Facebook:</p>
           <a href="www.facebook.com">
             <img
-              src={require("./Facebook_logo.png")}
+              src={require("./facebook_logo.png")}
               alt="facebook_logo"
               width="40px"
               height="40px"
@@ -70,7 +70,7 @@ export default function App() {
           <p>Twitter:</p>
           <a href="www.twitter.com">
             <img
-              src={require("./Twitter_logo.png")}
+              src={require("./twitter_logo.png")}
               alt="twitter_logo"
               width="40px"
               height="40px"
