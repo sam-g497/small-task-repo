@@ -5,7 +5,7 @@ export default function App() {
       <header className="flex-container">
         <div id="logo1">
           <img
-            src={require("./Logo.png")}
+            src={require("./logo.png")}
             alt="logo"
             width="100px"
             height="100px"
@@ -68,7 +68,7 @@ export default function App() {
         </div>
         <div className="p1">
           <p>Twitter:</p>
-          <a href="twitter.com">
+          <a href="www.twitter.com">
             <img
               src={require("./Twitter_logo.png")}
               alt="twitter_logo"
