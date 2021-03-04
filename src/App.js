@@ -43,6 +43,9 @@ export default function App() {
             <button>Buy Now</button>
           </p>
         </article>
+        <aside>
+          <p>hello from the aside</p>
+        </aside>
       </main>
       <footer className="flex-container2">
         <div className="p1">
